@@ -36,11 +36,14 @@ Also create me an eye-catching but professional image to use in the post.
 ![Image for a linkedin post rappresenting Rag AI Structure](https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-fa48-620a-8d0c-27b094ec30a6/raw?se=2025-05-05T12%3A28%3A42Z&sp=r&sv=2024-08-04&sr=b&scid=4c50ef4e-e67b-5dfa-a2b1-a3829c91d16b&skoid=cdb71e28-0a5b-4faa-8cf5-de6084d65b8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-05T08%3A09%3A28Z&ske=2025-05-06T08%3A09%3A28Z&sks=b&skv=2024-08-04&sig=0Ja2A/xJTdNMaT68FnVFfm/WtUMNouJ%2BxSJ7qvclQkE%3D)
 
 🔍 Retrieval-Augmented Generation (RAG) enhances LLMs by integrating them with external data retrieval. Rather than relying solely on stored knowledge, RAG retrieves relevant content from indexed sources to generate grounded, context-aware responses.
+
 📘 Use cases:
 • Real-time customer chatbots
 • Intelligent search engines
 • Legal or medical assistants
+
 📊 Flow: Query → Retrieval → Augmentation → Response
+
 This makes RAG ideal for applications that demand high reliability, accuracy, and up-to-date information—without retraining the model.
 
 **Annotation**
