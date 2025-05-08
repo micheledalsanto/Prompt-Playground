@@ -27,7 +27,7 @@ It turns ChatGPT (or any LLM) into a guided social media assistant. Instead of j
 
 ## 📎 How to Use
 
-1. Open the file [`Adaptive_Social_Post_Prompt_Template.md`](Adaptive_Social_Post_Prompt_Template.md)
+1. Open the file [`Adaptive Social Post Generator – Prompt Template.md`](Adaptive%20Social%20Post%20Generator%20%E2%80%93%20Prompt%20Template.md)
 2. Copy the full prompt block
 3. Paste it into ChatGPT or your preferred language model
 4. Answer the assistant's questions
