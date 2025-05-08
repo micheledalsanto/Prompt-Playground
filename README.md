@@ -22,6 +22,25 @@ This hands-on practice helps me better understand how language models interpret 
 
 ---
 
+### 🧠 Advanced Exercises
+
+This folder contains prompt writing experiments using more advanced techniques, such as:
+
+- 🎭 Role prompting – assigning a specific persona to the model
+- 🧠 Few-shot prompting – guiding the output with clear examples
+- 🧵 Chain-of-thought prompting – encouraging step-by-step reasoning
+
+Each file includes:
+
+- Carefully designed prompts
+- Responses from ChatGPT-4o
+- Evaluations on effectiveness, clarity, and control
+- Notes on how small changes impact the output
+
+These exercises aim to explore deeper control and precision in prompt engineering beyond basic use cases.
+
+---
+
 ## 📌 Goals
 
 - Improve my ability to write clear, task-specific prompts
