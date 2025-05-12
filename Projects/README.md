@@ -17,6 +17,9 @@ Whether they come from structured courses or self-driven exploration, every proj
 
 These aren't just theory — they're built, tested, and refined to solve real challenges and creative tasks.
 
+- 📌 `adaptive-social-post-generator/` – Week 1: An adaptive prompt project that learns your social media voice before generating personalized posts. Includes template + test run.
+
+
 ---
 
 ## 🎯 Why I Built This
