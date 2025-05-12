@@ -11,9 +11,10 @@ As I go through these advanced exercises, I want to remind myself what each prom
 
 - **Few-Shot Prompting**: I give the model 2–3 examples of how I want it to behave before asking it to generate something new. This technique helps set a clear pattern for the model to follow, and I can tweak the examples to guide the tone, format, or logic of the output.  
   _Example:_  
-  “Categorize the following movie reviews as Positive or Negative:  
-  - 'This movie was a total mess. I want my time back.' → Negative  
-  - 'A beautiful story, well told. I cried at the end.' → Positive  
+  “Categorize the following movie reviews as Positive or Negative:
+
+  - 'This movie was a total mess. I want my time back.' → Negative
+  - 'A beautiful story, well told. I cried at the end.' → Positive
   - 'The pacing was strange, but I liked the characters.' →”
 
 - **Chain-of-Thought Prompting**: I explicitly tell the model to explain its reasoning step by step. This is useful for tasks that require logic, analysis, or decisions, and it helps me understand how the model arrives at its conclusions.  
