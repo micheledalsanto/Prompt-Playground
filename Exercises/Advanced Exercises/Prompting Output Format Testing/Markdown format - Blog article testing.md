@@ -103,7 +103,7 @@ Use a **professional yet engaging tone**, suitable for a blog targeting digital 
 
 Format the entire output using **markdown**, with bold section titles and clean, scannable structure.
 
-**Improved response**
+# Improved response
 
 # **How AI Is Changing Marketing**
 
