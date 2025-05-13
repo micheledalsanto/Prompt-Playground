@@ -20,41 +20,41 @@ To create clear and direct prompts for a wide variety of tasks, ensuring high-qu
 
 🧩 **Template**
 
-### Objective  
+**Objective**
 [Clearly state the task.]
 
-### Context  
+**Context**  
 [Provide essential background information.]
 
-### Instructions  
+**Instructions**  
 [Define specific steps or expectations.]
 
-### Constraints  
+**Constraints**  
 [Include any rules: tone, length, output type.]
 
-### Output Format  
+**Output Format**  
 [Specify how the answer should be structured.]
 
-### Example  
+**Example**  
 [Optional: show an example input/output.]
 
 🧪 **Example**
 
-### Objective  
+**Objective**  
 Summarize the findings of the latest WHO mental health report.
 
-### Context  
+**Context**  
 The report outlines the global increase in anxiety and depression post-pandemic.
 
-### Instructions  
+**Instructions**  
 - Highlight main causes and affected demographics.  
 - Include proposed policy recommendations.
 
-### Constraints  
+**Constraints**  
 - Max 150 words.  
 - Use clear, accessible language.
 
-### Output Format  
+**Output Format**  
 - Bullet point summary.
 
 ---
@@ -71,10 +71,10 @@ To train the model with 2–5 examples that establish a pattern before giving it
 
 🧩 **Template**
 
-### Task  
+**Task**  
 [Describe the task.]
 
-### Examples  
+**Examples**  
 Input: [Sample input 1]  
 Output: [Sample output 1]
 
@@ -83,13 +83,13 @@ Output: [Sample output 2]
 
 ...
 
-### Now, complete the following:  
+**Now, complete the following:**  
 Input: [New input]  
 Output:
 
 🧪 **Example**
 
-### Task  
+**Task**  
 Classify each sentence as POSITIVE, NEGATIVE, or NEUTRAL sentiment.
 
 Input: I love this product!  
@@ -101,7 +101,7 @@ Output: NEUTRAL
 Input: Terrible customer service.  
 Output: NEGATIVE
 
-### Now, complete the following:  
+**Now, complete the following:** 
 Input: The movie was better than I expected.  
 Output:
 
@@ -119,13 +119,13 @@ To guide the model in producing multi-step reasoning by explicitly showing how t
 
 🧩 **Template**
 
-### Question  
+**Question**  
 [Pose a complex or multi-step problem.]
 
-### Instructions  
+**Instructions**  
 Explain your reasoning step by step.
 
-### Response  
+**Response**  
 Let's think step by step.  
 1. [...]  
 2. [...]  
@@ -134,13 +134,13 @@ Final Answer: [...]
 
 🧪 **Example**
 
-### Question  
+**Question**  
 If eggs cost $2.50 per dozen, how much would 18 eggs cost?
 
-### Instructions  
+**Instructions**  
 Explain your reasoning step by step.
 
-### Response  
+**Response**  
 Let's think step by step.  
 1. A dozen eggs = 12 eggs.  
 2. $2.50 / 12 = $0.208 per egg.  
@@ -161,42 +161,42 @@ To generate or manipulate images based on detailed textual instructions.
 
 🧩 **Template**
 
-### Description  
+**Description**  
 [What is the scene, object, or idea?]
 
-### Style  
+**Style**  
 [Artistic direction: photo, sketch, digital art, oil painting, etc.]
 
-### Colors  
+**Colors**  
 [Preferred color palette.]
 
-### Lighting  
+**Lighting**  
 [Natural, neon, moody, etc.]
 
-### Composition  
+**Composition**  
 [How elements are arranged.]
 
-### Additional Details  
+**Additional Details**  
 [Any specific textures, expressions, environments.]
 
 🧪 **Example**
 
-### Description  
+**Description**  
 A futuristic library floating in space.
 
-### Style  
+**Style**  
 Digital art with sci-fi influence.
 
-### Colors  
+**Colors**  
 Black, blue, silver with hints of orange glow.
 
-### Lighting  
+**Lighting**  
 Soft ambient lighting with glowing book edges.
 
-### Composition  
+**Composition**  
 Wide-angle view with book orbs orbiting a central core.
 
-### Additional Details  
+**Additional Details**  
 Include a human silhouette reading a holographic book.
 
 ---
@@ -213,47 +213,47 @@ To test how slight differences in phrasing, structure, or context affect the mod
 
 🧩 **Template**
 
-### Task  
+**Task**  
 [Describe the intended task.]
 
-### Prompt A  
+**Prompt A**  
 [First variation of prompt.]
 
-### Prompt B  
+**Prompt B**  
 [Second variation of prompt.]
 
-### Evaluation Criteria  
+**Evaluation Criteria**  
 - Accuracy  
 - Creativity  
 - Clarity  
 - Factual consistency
 
-### Output A:  
+**Output A:**  
 [...]
 
-### Output B:  
+**Output B:**  
 [...]
 
 🧪 **Example**
 
-### Task  
+**Task**  
 Write a short bio for a UX designer with 5 years of experience.
 
-### Prompt A  
+**Prompt A**  
 "Write a professional 2-line LinkedIn bio for a UX designer with 5 years of experience in fintech."
 
-### Prompt B  
+**Prompt B**  
 "Summarize the professional journey of a fintech UX designer with 5 years of experience in 2 impactful lines."
 
-### Evaluation Criteria  
+**Evaluation Criteria**  
 - Clarity  
 - Tone  
 - Industry-specific relevance
 
-### Output A:  
+**Output A:**  
 "Experienced UX Designer specializing in fintech, with a passion for intuitive product experiences and cross-functional collaboration."
 
-### Output B:  
+**Output B:**  
 "Crafting fintech user journeys for 5+ years—designing products that merge usability, trust, and innovation."
 
 ---
