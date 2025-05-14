@@ -1,5 +1,8 @@
 # 🧠 Prompt Engineering Cheatsheet
 
+**Version:** 1.0.0  
+**Last updated:** 2025-05-13
+
 I put together this cheatsheet to organize what I’ve learned about prompt engineering through courses, hands-on practice, technical blogs, and community resources like OpenAI, DeepLearning.AI, and Google.  
 My goal is to make this a practical reference for anyone who wants to explore, learn, and experiment with prompts—whether you're just starting out or already deep into the world of LLMs.
 
@@ -310,6 +313,18 @@ Write a short bio for a UX designer with 5 years of experience.
 
 ---
 
-> Built as a reference for myself, but shared in case it’s useful to you too.
->  
-> 📬 Got improvements or tips? I’d love to hear them!
+## 🛡️ License
+
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+You are free to **share** — copy and redistribute the material in any medium or format  
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit to the author.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For full license text, see: [https://creativecommons.org/licenses/by-nc-nd/4.0](https://creativecommons.org/licenses/by-nc-nd/4.0)
+
+**Author:** Michele Dal Santo  
+**Date:** 2025-05-13
