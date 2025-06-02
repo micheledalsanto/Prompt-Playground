@@ -49,11 +49,15 @@ These resources provide comprehensive insights into the theory and practical imp
 
 ## 🤖 Gemini Output
 
+ **ACCESS PROBLEM**
+
 I am sorry, but I am still unable to access the article at the provided URL to summarize it. I recommend trying to access the article directly or providing the content if possible.
 
 ---
 
 ## 🤖 Claude Output
+
+ **ACCESS PROBLEM**
 
 I'll fetch and summarize that article for you.
 I'm unable to access that specific Medium article due to access restrictions. 
