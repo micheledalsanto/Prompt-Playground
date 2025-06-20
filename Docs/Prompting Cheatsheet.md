@@ -1,5 +1,8 @@
 # 🧠 Prompt Engineering Cheatsheet
 
+**Version:** 1.0.0  
+**Last updated:** 2025-05-13
+
 I put together this cheatsheet to organize what I’ve learned about prompt engineering through courses, hands-on practice, technical blogs, and community resources like OpenAI, DeepLearning.AI, and Google.  
 My goal is to make this a practical reference for anyone who wants to explore, learn, and experiment with prompts—whether you're just starting out or already deep into the world of LLMs.
 
@@ -20,7 +23,10 @@ To create clear and direct prompts for a wide variety of tasks, ensuring high-qu
 
 🧩 **Template**
 
-**Objective**
+**Role**  
+[Define the role or persona the model should adopt.]
+
+**Objective**  
 [Clearly state the task.]
 
 **Context**  
@@ -39,6 +45,9 @@ To create clear and direct prompts for a wide variety of tasks, ensuring high-qu
 [Optional: show an example input/output.]
 
 🧪 **Example**
+
+**Role**  
+You are a health journalist writing for a general audience.
 
 **Objective**  
 Summarize the findings of the latest WHO mental health report.
@@ -71,6 +80,9 @@ To train the model with 2–5 examples that establish a pattern before giving it
 
 🧩 **Template**
 
+**Role**  
+[Define the role or expert identity the model should use.]
+
 **Task**  
 [Describe the task.]
 
@@ -89,6 +101,9 @@ Output:
 
 🧪 **Example**
 
+**Role**  
+You are a sentiment analysis engine trained on customer reviews.
+
 **Task**  
 Classify each sentence as POSITIVE, NEGATIVE, or NEUTRAL sentiment.
 
@@ -101,7 +116,7 @@ Output: NEUTRAL
 Input: Terrible customer service.  
 Output: NEGATIVE
 
-**Now, complete the following:** 
+**Now, complete the following:**  
 Input: The movie was better than I expected.  
 Output:
 
@@ -119,6 +134,9 @@ To guide the model in producing multi-step reasoning by explicitly showing how t
 
 🧩 **Template**
 
+**Role**  
+[Define the role or analytical perspective the model should adopt.]
+
 **Question**  
 [Pose a complex or multi-step problem.]
 
@@ -133,6 +151,9 @@ Let's think step by step.
 Final Answer: [...]
 
 🧪 **Example**
+
+**Role**  
+You are a math tutor helping a student understand word problems.
 
 **Question**  
 If eggs cost $2.50 per dozen, how much would 18 eggs cost?
@@ -161,6 +182,9 @@ To generate or manipulate images based on detailed textual instructions.
 
 🧩 **Template**
 
+**Role**  
+[Define the creative or artistic role the model should assume.]
+
 **Description**  
 [What is the scene, object, or idea?]
 
@@ -180,6 +204,9 @@ To generate or manipulate images based on detailed textual instructions.
 [Any specific textures, expressions, environments.]
 
 🧪 **Example**
+
+**Role**  
+You are a concept artist creating sci-fi environments.
 
 **Description**  
 A futuristic library floating in space.
@@ -213,6 +240,9 @@ To test how slight differences in phrasing, structure, or context affect the mod
 
 🧩 **Template**
 
+**Role**  
+[Define the evaluator or tester role the model should adopt.]
+
 **Task**  
 [Describe the intended task.]
 
@@ -235,6 +265,9 @@ To test how slight differences in phrasing, structure, or context affect the mod
 [...]
 
 🧪 **Example**
+
+**Role**  
+You are a hiring manager reviewing candidate bios.
 
 **Task**  
 Write a short bio for a UX designer with 5 years of experience.
@@ -261,6 +294,7 @@ Write a short bio for a UX designer with 5 years of experience.
 ## 📌 Best Practices for Prompt Engineering
 
 - **Start with clear objectives:** Know exactly what you want the model to do.  
+- **Set the right role:** Define who the model should act as (e.g., teacher, analyst, coach).  
 - **Give sufficient context:** More detail usually means more relevant output.  
 - **Be explicit about constraints:** Include length, tone, format, style, etc.  
 - **Use examples generously:** Especially with few-shot or structured tasks.  
@@ -279,6 +313,18 @@ Write a short bio for a UX designer with 5 years of experience.
 
 ---
 
-> Built as a reference for myself, but shared in case it’s useful to you too.
->  
-> 📬 Got improvements or tips? I’d love to hear them!
+## 🛡️ License
+
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+You are free to **share** — copy and redistribute the material in any medium or format  
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit to the author.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For full license text, see: [https://creativecommons.org/licenses/by-nc-nd/4.0](https://creativecommons.org/licenses/by-nc-nd/4.0)
+
+**Author:** Michele Dal Santo  
+**Date:** 2025-05-13
